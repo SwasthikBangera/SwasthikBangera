@@ -1,5 +1,6 @@
 ### Hello, World!
-I'm Swasthik Bangera
+
+I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with background in Simulation, Manufacturing and Quality. My passion is to use my mathematical, statistical, and analytical skills to find solutions to complex real-world problems and create a smarter, easier way to navigate and comprehend the world during our time here. I also enjoy Beatles, Reading, Soccer or Football (depending on what part of tribe you are on), Formula1 & Tennis.
 
 <!--
 **SwasthikBangera/SwasthikBangera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
