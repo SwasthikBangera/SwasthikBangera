@@ -8,4 +8,4 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 
 ### Courses and Achievements
 
-### Contact
+### Contact 
