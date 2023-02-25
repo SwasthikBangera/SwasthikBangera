@@ -11,6 +11,7 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 ### Project 1: [House Price Prediction](https://github.com/SwasthikBangera/HousingPrice)
 ### Project 2: [Diabetes Prediction](https://github.com/SwasthikBangera/DiabetesDetection)
 ### Project 3: [Rock vs Mine Prediction](https://github.com/SwasthikBangera/MinePrediction)
+### Project 4: [Fake News Prediction](https://github.com/SwasthikBangera/FakeNewsPrediction)
 
 # Courses and Achievements
 
