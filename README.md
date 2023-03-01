@@ -16,7 +16,13 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 
 # Courses and Achievements
 
+### 1. Machine Learning by Stanford University (2021) : [Certificate](https://coursera.org/share/0165428301c87064204831a9ce3e342b)
+Skills gained: Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning
 
+### 2. Automate the Boring Stuff with Python Programming (2021) : [Certificate](https://www.udemy.com/certificate/UC-09f94a93-9c63-4dc5-8351-fb84ae68ca26/)
+Skills gained: Automated tasks using Python programs, urogrammatically generated and updated Excel spreadsheets, used Python's debugging tools to figure out bugs in your code, wrote program to send out email notifications, programmatically controlled mouse and keyboard to click and type.
+
+### 3. Programming Foundations: Fundamentals by LinkedIn Learning (2019): Credential ID - Af8tqwxmiAsD9LHbvsqIK5gpgVYO
 
 # Contact 
 
