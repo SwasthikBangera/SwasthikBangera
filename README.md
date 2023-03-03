@@ -13,6 +13,7 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 ### Project 3: [Rock vs Mine Prediction](https://github.com/SwasthikBangera/MinePrediction)
 ### Project 4: [Fake News Prediction](https://github.com/SwasthikBangera/FakeNewsPrediction)
 ### Project 5: [Loan Status Prediction](https://github.com/SwasthikBangera/LoanStatusPrediction)
+### Project 6: [Wine Quality Prediction](https://github.com/SwasthikBangera/WineQualityPrediciton)
 
 # Courses and Achievements
 
