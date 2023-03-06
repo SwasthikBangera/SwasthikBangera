@@ -14,6 +14,7 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 ### Project 4: [Fake News Prediction](https://github.com/SwasthikBangera/FakeNewsPrediction)
 ### Project 5: [Loan Status Prediction](https://github.com/SwasthikBangera/LoanStatusPrediction)
 ### Project 6: [Wine Quality Prediction](https://github.com/SwasthikBangera/WineQualityPrediciton)
+### Project 7: [Credit Card Fraud Detection](https://github.com/SwasthikBangera/CreditCardFraud)
 
 # Courses and Achievements
 
