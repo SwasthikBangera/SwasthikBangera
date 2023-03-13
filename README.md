@@ -18,6 +18,7 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 ### Project 8: [Titanic Survival Determination](https://github.com/SwasthikBangera/TitanicSurvival)
 ### Project 9: [Credit Card Fraud Detection](https://github.com/SwasthikBangera/Calories_Burnt_Prediction)
 ### Project 10: [Spam Mail Detection](https://github.com/SwasthikBangera/Spam_Mail_Detection)
+### Project 11: [Movie Recommendation System](https://github.com/SwasthikBangera/Movie_Recommendation_System)
 
 # Courses and Achievements
 
