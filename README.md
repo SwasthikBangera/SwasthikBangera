@@ -16,7 +16,7 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 ### Project 6: [Wine Quality Prediction](https://github.com/SwasthikBangera/WineQualityPrediciton)
 ### Project 7: [Credit Card Fraud Detection](https://github.com/SwasthikBangera/CreditCardFraud)
 ### Project 8: [Titanic Survival Determination](https://github.com/SwasthikBangera/TitanicSurvival)
-### Project 9: [Credit Card Fraud Detection](https://github.com/SwasthikBangera/Calories_Burnt_Prediction)
+### Project 9: [Calorie Burnt Prediction](https://github.com/SwasthikBangera/Calories_Burnt_Prediction)
 ### Project 10: [Spam Mail Detection](https://github.com/SwasthikBangera/Spam_Mail_Detection)
 ### Project 11: [Movie Recommendation System](https://github.com/SwasthikBangera/Movie_Recommendation_System)
 
