@@ -4,7 +4,7 @@ I'm <b>Swasthik Bangera</b>, a self-taught machine learning engineer with backgr
 
 # Projects
 
-
+### Project 1: [Churn Prediction](https://github.com/SwasthikBangera/ChurnPrediction)
 
 # Guided Projects
 
