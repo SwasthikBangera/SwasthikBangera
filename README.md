@@ -6,6 +6,7 @@ I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with backgrou
 
 ### Project 1: [Churn Prediction](https://github.com/SwasthikBangera/ChurnPrediction)
 ### Project 2: [Sentiment Analysis](https://github.com/SwasthikBangera/SentimentAnalysis)
+### Project 3: [Formula1 Prediction](https://github.com/SwasthikBangera/Formula1_Prediction)
 
 # Guided Projects
 
