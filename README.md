@@ -2,11 +2,14 @@
 
 I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with background in Simulation, Manufacturing and Quality. My passion is to use my mathematical, statistical, and analytical skills to find solutions to complex real-world problems and create a smarter, easier way to navigate and comprehend the world during our time here. I also enjoy Beatles, Reading, Soccer or Football (depending on what part of tribe you are on), Formula1 & Tennis. This space is to showcase and track the progress of my journey.
 
+My coding journey is recorded here: [LeetCode Problems](https://github.com/SwasthikBangera/LeetCode_Problems)
+
 # Projects
 
 ### Project 1: [Churn Prediction](https://github.com/SwasthikBangera/ChurnPrediction)
 ### Project 2: [Sentiment Analysis](https://github.com/SwasthikBangera/SentimentAnalysis)
 ### Project 3: [Formula1 Prediction](https://github.com/SwasthikBangera/Formula1_Prediction)
+### Project 4: [Lottery PRediction](https://github.com/SwasthikBangera/lottery_prediction)
 
 # Guided Projects
 
