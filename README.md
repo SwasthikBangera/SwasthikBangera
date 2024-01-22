@@ -2,8 +2,6 @@
 
 I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with background in Simulation, Manufacturing and Quality. My passion is to use my mathematical, statistical, and analytical skills to find solutions to complex real-world problems and create a smarter, easier way to navigate and comprehend the world during our time here. I also enjoy Beatles, Reading, Soccer or Football (depending on what part of tribe you are on), Formula1 & Tennis. This space is to showcase and track the progress of my journey.
 
-My coding journey is recorded here: [LeetCode Problems](https://github.com/SwasthikBangera/LeetCode_Problems)
-
 # Projects
 
 ### Project 1: [Churn Prediction](https://github.com/SwasthikBangera/ChurnPrediction)
@@ -24,6 +22,9 @@ My coding journey is recorded here: [LeetCode Problems](https://github.com/Swast
 ### Project 9: [Calorie Burnt Prediction](https://github.com/SwasthikBangera/Calories_Burnt_Prediction)
 ### Project 10: [Spam Mail Detection](https://github.com/SwasthikBangera/Spam_Mail_Detection)
 ### Project 11: [Movie Recommendation System](https://github.com/SwasthikBangera/Movie_Recommendation_System)
+
+Coding: 
+Part of my coding journey is recorded here: [LeetCode Problems](https://github.com/SwasthikBangera/LeetCode_Problems)
 
 # Courses and Achievements
 
