@@ -23,7 +23,8 @@ I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with backgrou
 ### Project 10: [Spam Mail Detection](https://github.com/SwasthikBangera/Spam_Mail_Detection)
 ### Project 11: [Movie Recommendation System](https://github.com/SwasthikBangera/Movie_Recommendation_System)
 
-<u>Coding</u>:
+
+<i><b>Coding</b></i> :
 
 Part of my coding journey is recorded here: [LeetCode Problems](https://github.com/SwasthikBangera/LeetCode_Problems)
 
