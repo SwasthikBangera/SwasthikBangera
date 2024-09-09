@@ -1,6 +1,8 @@
 # Hello, Universe!
 
-I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with background in Simulation, Manufacturing and Quality. My passion is to use my mathematical, statistical, and analytical skills to find solutions to complex real-world problems and create a smarter, easier way to navigate and comprehend the world during our time here. I also enjoy Beatles, Reading, Soccer or Football (depending on what part of tribe you are on), Formula1 & Tennis. This space is to showcase and track the progress of my journey.
+I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with prior professional experience in Simulation, Manufacturing and Quality in fields such as Healthcare, Automotive and Defense. 
+My passion is to use my mathematical, statistical, and analytical skills to find solutions to complex real-world problems and create a smarter, easier way to navigate and comprehend the world during our time here. I also enjoy Beatles, Reading, Soccer or Football (depending on what part of tribe you are on), Formula1 & Tennis. 
+This space is to showcase and track the progress of my journey.
 
 # Projects
 
