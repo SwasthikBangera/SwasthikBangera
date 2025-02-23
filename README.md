@@ -35,14 +35,17 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 
 # Courses and Achievements
 
-### 1. Machine Learning by Stanford University (2021) : [Certificate](https://coursera.org/share/0165428301c87064204831a9ce3e342b)
+### 1. Programming Foundations: Fundamentals by LinkedIn Learning (2019)
+<b>Credential ID</b>: Af8tqwxmiAsD9LHbvsqIK5gpgVYO
+
+### 2. Machine Learning by Stanford University (2021) : [Certificate](https://coursera.org/share/0165428301c87064204831a9ce3e342b)
 <b>Skills gained</b>: Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning
 
-### 2. Automate the Boring Stuff with Python Programming (2021) : [Certificate](https://www.udemy.com/certificate/UC-09f94a93-9c63-4dc5-8351-fb84ae68ca26/)
+### 3. Automate the Boring Stuff with Python Programming (2021) : [Certificate](https://www.udemy.com/certificate/UC-09f94a93-9c63-4dc5-8351-fb84ae68ca26/)
 <b>Skills gained</b>: Automated tasks using Python programs, urogrammatically generated and updated Excel spreadsheets, used Python's debugging tools to figure out bugs in your code, wrote program to send out email notifications, programmatically controlled mouse and keyboard to click and type.
 
-### 3. Programming Foundations: Fundamentals by LinkedIn Learning (2019)
-<b>Credential ID</b>: Af8tqwxmiAsD9LHbvsqIK5gpgVYO
+### 4. Introduction to Data Analytics (2024) : [Certificate](https://coursera.org/share/b19056b971bd7fe1295e4ce3912bf1e0)
+<b>Skills gained</b>: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization
 
 # Contact 
 
