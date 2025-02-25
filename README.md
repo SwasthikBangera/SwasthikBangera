@@ -47,6 +47,9 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 4. Introduction to Data Analytics (2024) : [Certificate](https://coursera.org/share/b19056b971bd7fe1295e4ce3912bf1e0)
 <b>Skills gained</b>: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Data Visualization
 
+### 5. Excel Basics for Data Analysis (2024) : [Certificate](https://coursera.org/share/a2686f4b7243e0f2c7ecbffd0ed8f2de)
+<b>Skills gained</b>: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Pivot Table
+
 # Contact 
 
 ### LinkedIn : [Swasthik Bangera](https://www.linkedin.com/in/swasthik/)
