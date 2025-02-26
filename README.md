@@ -50,6 +50,9 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 5. Excel Basics for Data Analysis (2024) : [Certificate](https://coursera.org/share/a2686f4b7243e0f2c7ecbffd0ed8f2de)
 <b>Skills gained</b>: Data Science, Spreadsheet, Data Analysis, Microsoft Excel, Pivot Table
 
+### 6. Data Visualization and Dashboards with Excel and Cognos (2024) : [Certificate](https://coursera.org/share/14a797880f91c5d3b8b3841fc4d768f8)
+<b>Skills gained</b>: Data Analysis, Microsoft Excel, IBM Cognos Analytics, Dashboard, Data Visualization
+
 # Contact 
 
 ### LinkedIn : [Swasthik Bangera](https://www.linkedin.com/in/swasthik/)
