@@ -59,6 +59,9 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 8. Introduction to R Programming for Data Science (2024) : [Certificate](https://coursera.org/share/2a4f84f1d3632e19e94fa491b0d979cd)
 <b>Skills gained</b>: Data Science, R Programming
 
+### 9. Data Analysis with R (2024) : [Certificate](https://coursera.org/share/242108e19d458f25d597e7cb38aba651)
+<b>Skills gained</b>: Data Science, Data Analysis, Statistical Analysis, Data Visualization, R Programming
+
 # Contact 
 
 ### LinkedIn : [Swasthik Bangera](https://www.linkedin.com/in/swasthik/)
