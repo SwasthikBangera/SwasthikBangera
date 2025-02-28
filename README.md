@@ -53,8 +53,11 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 6. Data Visualization and Dashboards with Excel and Cognos (2024) : [Certificate](https://coursera.org/share/14a797880f91c5d3b8b3841fc4d768f8)
 <b>Skills gained</b>: Data Analysis, Microsoft Excel, IBM Cognos Analytics, Dashboard, Data Visualization
 
-### 6. Assessment for Data Analysis and Visualization Foundations (2024) : [Certificate](https://coursera.org/share/f5b3d4c74d8602f94391e9fd72e819a1)
+### 7. Assessment for Data Analysis and Visualization Foundations (2024) : [Certificate](https://coursera.org/share/f5b3d4c74d8602f94391e9fd72e819a1)
 <b>Skills gained</b>: Data Structure, Data Analysis, Microsoft Excel, Cognos Analytics, Pivot Charts
+
+### 8. Introduction to R Programming for Data Science (2024) : [Certificate](https://coursera.org/share/2a4f84f1d3632e19e94fa491b0d979cd)
+<b>Skills gained</b>: Data Science, R Programming
 
 # Contact 
 
