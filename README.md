@@ -62,7 +62,7 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 9. Data Analysis with R (2024) : [Certificate](https://coursera.org/share/242108e19d458f25d597e7cb38aba651)
 <b>Skills gained</b>: Data Science, Data Analysis, Statistical Analysis, Data Visualization, R Programming
 
-### 10. SQL for Data Science with R (2024) : [Certificate]()
+### 10. SQL for Data Science with R (2024) : [Certificate](https://coursera.org/share/29d7a81b11c55c72591e747a223415b5)
 <b>Skills gained</b>: Data Science, Data Analysis, Select (Sql), Relational Databases (RDBMS), R Programming
 
 # Contact 
