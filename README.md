@@ -65,6 +65,9 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 10. SQL for Data Science with R (2024) : [Certificate](https://coursera.org/share/29d7a81b11c55c72591e747a223415b5)
 <b>Skills gained</b>: Data Science, Data Analysis, Select (Sql), Relational Databases (RDBMS), R Programming
 
+### 11. Data Visualization with R (2024) : [Certificate](https://coursera.org/share/28789372a13b5602fa71ba4ddc9f460a)
+<b>Skills gained</b>: Data Science, Data Analysis, Data Visualization, R Programming
+
 # Contact 
 
 ### LinkedIn : [Swasthik Bangera](https://www.linkedin.com/in/swasthik/)
