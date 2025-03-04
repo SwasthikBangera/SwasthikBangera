@@ -68,6 +68,9 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 11. Data Visualization with R (2024) : [Certificate](https://coursera.org/share/28789372a13b5602fa71ba4ddc9f460a)
 <b>Skills gained</b>: Data Science, Data Analysis, Data Visualization, R Programming
 
+### 12. Data Science with R - Capstone Project (2024) : [Certificate](https://coursera.org/share/10d4aef3ae554ade177cbcd1ec4907e5)
+<b>Skills gained</b>: Data Science, Linear Regression, Data Visualization, R Programming, Exploratory Data Analysis
+
 # Contact 
 
 ### LinkedIn : [Swasthik Bangera](https://www.linkedin.com/in/swasthik/)
