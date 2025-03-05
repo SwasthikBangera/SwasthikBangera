@@ -35,7 +35,8 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 
 # Courses and Achievements
 
-### 1. Programming Foundations: Fundamentals by LinkedIn Learning (2019)
+### 1. Programming Foundations: Fundamentals (2019)
+<b>Platform</b>: LinkedIn Learning
 <b>Credential ID</b>: Af8tqwxmiAsD9LHbvsqIK5gpgVYO
 
 ### 2. Machine Learning by Stanford University (2021) : [Certificate](https://coursera.org/share/0165428301c87064204831a9ce3e342b)
@@ -70,6 +71,10 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 
 ### 12. Data Science with R - Capstone Project (2024) : [Certificate](https://coursera.org/share/10d4aef3ae554ade177cbcd1ec4907e5)
 <b>Skills gained</b>: Data Science, Linear Regression, Data Visualization, R Programming, Exploratory Data Analysis
+
+### 13. Excel Data Visualization: Mastering 20+ Charts and Graphs (2025)
+<b>Platform</b>: LinkedIn Learning
+<b>Credential ID</b>: 7372c3081e15722df19d8f1d4fa1d0b43d8eba82a41c20b5642bc6927a1d31fe
 
 # Contact 
 
