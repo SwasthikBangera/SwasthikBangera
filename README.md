@@ -76,6 +76,10 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 <b>Platform</b>: LinkedIn Learning
 <b>Credential ID</b>: 7372c3081e15722df19d8f1d4fa1d0b43d8eba82a41c20b5642bc6927a1d31fe
 
+### 14. Predictive Analytics Essential Training: Data Mining (2025)
+<b>Platform</b>: LinkedIn Learning
+<b>Credential ID</b>: fe809baff62408e26e8133b79ac08284b22d731b6906d338bf81f185fee8cdd0
+
 # Contact 
 
 ### LinkedIn : [Swasthik Bangera](https://www.linkedin.com/in/swasthik/)
