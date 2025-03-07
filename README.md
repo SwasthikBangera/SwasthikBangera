@@ -80,6 +80,10 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 <b>Platform</b>: LinkedIn Learning
 <b>Credential ID</b>: fe809baff62408e26e8133b79ac08284b22d731b6906d338bf81f185fee8cdd0
 
+### 15. Predictive analytics: Data Mining, Machine Learning, and Data Science for Practitioners (2025) : [Certificate](https://trine.ucertify.com/my/certificate.php?certificate_guid=WBEH7CF7)
+<b>Platform</b>: uCertify
+<b>Credential ID</b>: WBEH7CF7
+
 # Contact 
 
 ### LinkedIn : [Swasthik Bangera](https://www.linkedin.com/in/swasthik/)
