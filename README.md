@@ -83,6 +83,7 @@ Part of my coding journey is recorded here: [LeetCode Problems](https://github.c
 ### 15. Predictive analytics: Data Mining, Machine Learning, and Data Science for Practitioners (2025) : [Certificate](https://trine.ucertify.com/my/certificate.php?certificate_guid=WBEH7CF7)
 <b>Platform</b>: uCertify
 <b>Credential ID</b>: WBEH7CF7
+<b>Skills gained</b>: Pattern Discovery, Predictive Modeling, Algorithm Application, Decision Analysis, Data Visualization
 
 # Contact 
 
