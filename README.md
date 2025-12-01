@@ -1,4 +1,4 @@
-# Hello, Universe!
+# Hello, World, Universe!
 
 I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with prior professional experience in Simulation, Manufacturing and Quality in fields such as Healthcare, Automotive and Defense.
 
