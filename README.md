@@ -1,11 +1,12 @@
-# Hello, World, Universe!
+# Hello, World!
 
-I'm <b>Swasthik Bangera</b>, a certified machine learning engineer with prior professional experience in Simulation, Manufacturing and Quality in fields such as Healthcare, Automotive and Defense.
+I am Swasthik Bangera, a certified Machine Learning Engineer with a professional foundation in Simulation, Manufacturing and Quality Engineering across Healthcare, Automotive and Defense domains.
 
-My passion is to use my mathematical, statistical, and analytical skills to find solutions to complex real-world problems and create a smarter, easier way to navigate and comprehend the world during our time here. I also enjoy Beatles, Reading, Soccer or Football (depending on what part of tribe you are on), Formula1 & Tennis. 
-This space is to showcase and track the progress of my journey.
+I am passionate about applying mathematical, statistical and analytical methods to solve complex real world problems and design smarter and data driven solutions that make everyday life more understandable and efficient.
 
-Interests : OpenSource projects related to finance, tech and Health!
+Outside of work, I enjoy exploring open source projects, especially those at the intersection of finance, technology and healthcare. When I am not coding, you will find me diving into a Beatles playlist, reading or following soccer, Formula 1 and tennis.
+
+This repository highlights my projects and reflects my ongoing journey in machine learning and applied AI.
 
 # Projects
 
