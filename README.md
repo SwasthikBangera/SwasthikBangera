@@ -10,25 +10,7 @@ This repository highlights my projects and reflects my ongoing journey in machin
 
 # Projects
 
-### Project 1: [Churn Prediction](https://github.com/SwasthikBangera/ChurnPrediction)
-### Project 2: [Sentiment Analysis](https://github.com/SwasthikBangera/SentimentAnalysis)
-### Project 3: [Formula1 Prediction](https://github.com/SwasthikBangera/Formula1_Prediction)
-### Project 4: [Day Trading](https://github.com/SwasthikBangera/day_trading)
-
-# Guided Projects
-
-### Project 1: [House Price Prediction](https://github.com/SwasthikBangera/HousingPrice)
-### Project 2: [Diabetes Prediction](https://github.com/SwasthikBangera/DiabetesDetection)
-### Project 3: [Rock vs Mine Prediction](https://github.com/SwasthikBangera/MinePrediction)
-### Project 4: [Fake News Prediction](https://github.com/SwasthikBangera/FakeNewsPrediction)
-### Project 5: [Loan Status Prediction](https://github.com/SwasthikBangera/LoanStatusPrediction)
-### Project 6: [Wine Quality Prediction](https://github.com/SwasthikBangera/WineQualityPrediciton)
-### Project 7: [Credit Card Fraud Detection](https://github.com/SwasthikBangera/CreditCardFraud)
-### Project 8: [Titanic Survival Determination](https://github.com/SwasthikBangera/TitanicSurvival)
-### Project 9: [Calorie Burnt Prediction](https://github.com/SwasthikBangera/Calories_Burnt_Prediction)
-### Project 10: [Spam Mail Detection](https://github.com/SwasthikBangera/Spam_Mail_Detection)
-### Project 11: [Movie Recommendation System](https://github.com/SwasthikBangera/Movie_Recommendation_System)
-
+### Project 1: 
 
 
 <i><b>Coding</b></i> :
