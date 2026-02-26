@@ -10,7 +10,7 @@ This repository highlights my projects and reflects my ongoing journey in machin
 
 # Projects
 
-### Project 1: 
+### Project 1: [Diabetic Retinopathy Detection CNN](https://github.com/SwasthikBangera/diabetic-retinopathy-cnn)
 
 
 <i><b>Coding</b></i> :
