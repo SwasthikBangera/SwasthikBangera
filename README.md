@@ -1,6 +1,6 @@
 # Hello, World!
 
-I am Swasthik Bangera, a certified Machine Learning Engineer with a professional foundation in Simulation, Manufacturing and Quality Engineering across Healthcare, Automotive and Defense domains.
+I am Swasthik Bangera, a certified Machine Learning Engineer with a professional foundation in Simulation, Manufacturing and Quality Engineering across Healthcare, Automotive, and Defense domains.
 
 I am passionate about applying mathematical, statistical and analytical methods to solve complex real world problems and design smarter and data driven solutions that make everyday life more understandable and efficient.
 
@@ -11,6 +11,7 @@ This repository highlights my projects and reflects my ongoing journey in machin
 # Projects
 
 ### Project 1: [Diabetic Retinopathy Detection CNN](https://github.com/SwasthikBangera/diabetic-retinopathy-cnn)
+
 
 
 <i><b>Coding</b></i> :
