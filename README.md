@@ -13,11 +13,6 @@ This repository highlights my projects and reflects my ongoing journey in machin
 ### Project 1: [Diabetic Retinopathy Detection CNN](https://github.com/SwasthikBangera/diabetic-retinopathy-cnn)
 
 
-
-<i><b>Coding</b></i> :
-
-Part of my coding journey is recorded here: [LeetCode Problems](https://github.com/SwasthikBangera/LeetCode_Problems)
-
 # Courses and Achievements
 
 ### 1. Programming Foundations: Fundamentals (2019)
