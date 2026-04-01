@@ -12,6 +12,8 @@ This repository highlights my projects and reflects my ongoing journey in machin
 
 ### Project 1: [Diabetic Retinopathy Detection CNN](https://github.com/SwasthikBangera/diabetic-retinopathy-cnn)
 
+### Project 2: [TuluSenti: Sentiment Analysis for Tulu - English Code Mixed Text](https://github.com/SwasthikBangera/tulu-sentiment-analysis)
+
 
 
 
