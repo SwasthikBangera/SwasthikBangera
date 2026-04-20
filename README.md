@@ -15,7 +15,7 @@ This repository highlights my projects and reflects my ongoing journey in machin
 ### Project 2: [TuluSenti: Sentiment Analysis for Tulu - English Code Mixed Text](https://github.com/SwasthikBangera/tulu-sentiment-analysis)
 
 
-
+###
 
 # Courses and Achievements
 
